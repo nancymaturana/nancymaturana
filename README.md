@@ -9,7 +9,7 @@
 <h2 align="left">Sobre mí</h2>
 
 ###
-
+Nacida para el backend obligada al frontend
 <p align="left">✨ Solo SOY<br>
   👩‍💻 Quiero ser senior en JAVA<br>
   🎯 Siempre encuentro una solución y sino permito que suceda<br>
